@@ -30,6 +30,13 @@
 "place_singular" = "place";
 "places_plural" = "places";
 "verified" = "Verified";
+"no_results" = "No results";
+
+// COMMUNITY DETAIL VIEW
+"no_btc_places" = "No bitcoin friendly places yet.";
+
+// MAP
+"search" = "Search";
 
 // OPTIONS VIEW
 "add_place" = "Add location";

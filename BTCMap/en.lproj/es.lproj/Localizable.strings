@@ -1,0 +1,58 @@
+/* 
+  Localizable.strings
+  BTC Map
+
+  Created by Vitaly Berg on 10/1/22.
+  
+*/
+
+// ELEMENT VIEW
+"verify" = "Verificar";
+"not_verified_by_supertaggers_short" = "No verificado";
+"not_verified_by_supertaggers_long" = "No verificado por \nSupertaggers";
+"supertagger_manual" = "Supertagger Manual";
+"view_on_osm" = "Ver en OSM";
+"edit_on_osm" = "Editar en OSM";
+"edit_tags" = "Editar etiquetas";
+"tags" = "Etiquetas";
+
+"address" = "Dirección";
+"phone" = "Teléfono";
+"website" = "Sitio web";
+"email" = "Email";
+"facebook" = "Facebook";
+"twitter" = "Twitter";
+"opening_hours" = "Horario de apertura";
+"select_navigation_app" = "Seleccionar aplicación de navegación";
+
+// COMMUNITIES VIEW
+"km" = "km";
+"place_singular" = "lugar";
+"places_plural" = "lugares";
+"verified" = "Verificado";
+"no_results" = "Sin resultados";
+
+// COMMUNITY DETAIL VIEW
+"no_btc_places" = "No bitcoin friendly places yet.";
+
+// MAP
+"search" = "Buscar";
+
+// OPTIONS VIEW
+"add_place" = "Agregar dirección";
+"communities" = "Comunidades";
+"trends" = "Tendencias";
+"top_supertaggers" = "Mejores supertaggers";
+"latest_changes" = "Cambios recientes";
+"settings" = "Ajustes";
+"connect_osm_account" = "Conectar cuenta de OSM";
+"themed_pins" = "Pines temáticos";
+"dark_map" = "Mapa oscuro";
+"show_tags" = "Mostrar etiquetas";
+
+// DONATE
+"donate" = "Donar";
+"donate_headline" = "Ayúdanos a mejorar BTCMap";
+"copy_lnurl" = "Copiar LNUrl";
+"copy_btc_address" = "Copiar dirección btc";
+"pay" = "Pagar";
