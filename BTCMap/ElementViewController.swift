@@ -53,20 +53,20 @@ class ElementViewController: UIViewController {
             }
             
             if !address.isEmpty {
-                details.append(("Address", address))
+                details.append(("address".localized, address))
             }
             
             if let phone = element.osmJson.tags?["phone"] {
-                details.append(("Phone", phone))
+                details.append(("phone".localized, phone))
             }
             if let website = element.osmJson.tags?["contact:website"] {
-                details.append(("Website", website))
+                details.append(("website".localized, website))
             }
             if let facebook = element.osmJson.tags?["contact:facebook"] {
-                details.append(("Facebook", facebook))
+                details.append(("facebook".localized, facebook))
             }
             if let facebook = element.osmJson.tags?["opening_hours"] {
-                details.append(("Opening Hours", facebook))
+                details.append(("opening_hours".localized, facebook))
             }
             
             if !details.isEmpty {
