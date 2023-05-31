@@ -33,7 +33,7 @@
 "no_results" = "No results";
 
 // COMMUNITY DETAIL VIEW
-"no_btc_places" = "No bitcoin friendly places yet.";
+"no_btc_places" = "No bitcoin friendly places yet in this area.";
 
 // MAP
 "search" = "Search";

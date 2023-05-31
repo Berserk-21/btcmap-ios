@@ -33,18 +33,18 @@
 "no_results" = "Sin resultados";
 
 // COMMUNITY DETAIL VIEW
-"no_btc_places" = "No bitcoin friendly places yet.";
+"no_btc_places" = "Aún no hay lugares amigables con Bitcoin en esta área.";
 
 // MAP
 "search" = "Buscar";
 
 // OPTIONS VIEW
-"add_place" = "Agregar dirección";
+"add_place" = "Agregar ubicación";
 "communities" = "Comunidades";
 "trends" = "Tendencias";
-"top_supertaggers" = "Mejores supertaggers";
+"top_supertaggers" = "Principales supertaggers";
 "latest_changes" = "Cambios recientes";
-"settings" = "Ajustes";
+"settings" = "Configuración";
 "connect_osm_account" = "Conectar cuenta de OSM";
 "themed_pins" = "Pines temáticos";
 "dark_map" = "Mapa oscuro";
@@ -52,7 +52,7 @@
 
 // DONATE
 "donate" = "Donar";
-"donate_headline" = "Ayúdanos a mejorar BTCMap";
-"copy_lnurl" = "Copiar LNUrl";
-"copy_btc_address" = "Copiar dirección btc";
+"donate_headline" = "Ayúdanos a mejorar BTC Map";
+"copy_lnurl" = "Copiar LNURL";
+"copy_btc_address" = "Copiar dirección";
 "pay" = "Pagar";
